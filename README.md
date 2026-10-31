@@ -1,1 +1,1 @@
-# lab1-msg-equipoN
+# lab1-entrega
